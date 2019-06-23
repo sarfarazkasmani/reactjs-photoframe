@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-photoframe/static/css/main.a2dfde3f.chunk.css",
+    "main.js": "/reactjs-photoframe/static/js/main.1158ee73.chunk.js",
+    "main.js.map": "/reactjs-photoframe/static/js/main.1158ee73.chunk.js.map",
+    "runtime~main.js": "/reactjs-photoframe/static/js/runtime~main.10168820.js",
+    "runtime~main.js.map": "/reactjs-photoframe/static/js/runtime~main.10168820.js.map",
+    "static/js/2.2077328c.chunk.js": "/reactjs-photoframe/static/js/2.2077328c.chunk.js",
+    "static/js/2.2077328c.chunk.js.map": "/reactjs-photoframe/static/js/2.2077328c.chunk.js.map",
+    "index.html": "/reactjs-photoframe/index.html",
+    "precache-manifest.fffce9946ec33cca1110ea25224dca94.js": "/reactjs-photoframe/precache-manifest.fffce9946ec33cca1110ea25224dca94.js",
+    "service-worker.js": "/reactjs-photoframe/service-worker.js",
+    "static/css/main.a2dfde3f.chunk.css.map": "/reactjs-photoframe/static/css/main.a2dfde3f.chunk.css.map"
+  }
+}
